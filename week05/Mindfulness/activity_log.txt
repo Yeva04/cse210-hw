@@ -1,0 +1,6 @@
+2025-05-29 18:18:28,Breathing Activity,20
+2025-05-29 18:19:22,Reflection Activity,20
+2025-05-29 18:20:10,Listing Activity,20
+2025-05-29 18:32:09,Breathing Activity,20
+2025-05-29 18:34:29,Reflection Activity,20
+2025-05-29 18:35:29,Listing Activity,5
